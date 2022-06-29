@@ -35,7 +35,11 @@
 
 ### 상품 주문 페이지
 
-![상품주문](https://ifh.cc/g/zGgLLt.jpg)
+![상품주문](https://ifh.cc/g/gJfFC3.png)
+
+### 재고 수량 변경 (3000 -> 2975)
+
+![재고변경](https://ifh.cc/g/on4bb3.png)
 
 ### 주문 조회 페이지
 
