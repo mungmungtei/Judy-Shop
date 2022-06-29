@@ -12,8 +12,8 @@
 
 ### 메인 페이지
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/df9d1853-99a8-4204-bd90-6b76395df972/Untitled.png)
+![메인](https://ifh.cc/g/Bcx7xW.jpg)
 
 ### 회원 가입 페이지
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f5b64ec9-c2a7-4f8a-8748-46c30bbf3f28/Untitled.png)
+![회원가입](https://ifh.cc/g/M9J74L.jpg)
