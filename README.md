@@ -47,4 +47,4 @@
 
 ### 주문 취소 페이지
 
-![주문취소](https://ifh.cc/g/tzxlfp.jpg)
+![주문취소](https://ifh.cc/g/f0TjJm.png)
